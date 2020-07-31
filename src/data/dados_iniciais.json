@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Técnicas de estudo",
+      "link": "",
+      "cor": "#6dd3e1",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Errar é necessário, ter objetivos é essencial",
+          "url": "https://www.youtube.com/watch?v=5MgBikgcWnY"
+        },
+        {
+          "titulo": "Técnica Feynman",
+          "url": "https://www.youtube.com/watch?v=TVHUs67kwRk"
+        },
+        {
+          "titulo": "Técnica Pomodoro",
+          "url": "https://www.youtube.com/watch?v=hfxfJ7Qa4sg"
+        },
+        {
+          "titulo": "Método Avatar",
+          "url": "https://www.youtube.com/watch?v=d8D8bJ1oyTo"
+        },
+        {
+          "titulo": "Super Mario Effect",
+          "url": "https://www.youtube.com/watch?v=9vJRopau0g0"
+        },
+        {
+          "titulo": "Estudar menos, estudar melhor",
+          "url": "https://www.youtube.com/watch?v=V2_2UGeGL9M"
+        } 
+      ]
+    },
+    {
+      "titulo": "Culinária vegana e vegetariana",
+      "cor": "#FFBE00",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Bolo de cenoura vegano",
+          "url": "https://www.youtube.com/watch?v=TtFn2DTuhBQ"
+        },
+        {
+          "titulo": "Torta de beringela vegetariana",
+          "url": "https://www.youtube.com/watch?v=gUoH-_-0phg"
+        },
+        {
+          "titulo": "Doce de leite vegano",
+          "url": "https://www.youtube.com/watch?v=oTPVEXfdhuc"
+        },
+        {
+          "titulo": "Receitas veganas",
+          "url": "https://www.youtube.com/watch?v=_i6wu8XNSRg"
+        }, 
+        {
+          "titulo": "Receitas vegetarianas",
+          "url": "https://www.youtube.com/watch?v=mTroOuEhFIA"
+        }
+      ]
+    },
+    {
+      "titulo": "Ukulele - Tutoriais",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Bellyache - Billie Eilish",
+          "url": "https://www.youtube.com/watch?v=d56YBhFDmyc"
+        },
+        {
+          "titulo": "Peace & Love - Steven Universe",
+          "url": "https://www.youtube.com/watch?v=4dH9XKSQUHY&t=3s"
+        },
+        {
+          "titulo": "La Vie En Rose (How I Met Your Mother)",
+          "url": "https://www.youtube.com/watch?v=0ZZmaE0X328&t=306s"
+        },
+        {
+          "titulo": "Hakuna Matata - Lion King",
+          "url": "https://www.youtube.com/watch?v=zWeNH6ua7Bg"
+        },
+        {
+          "titulo": "Sparkle - Your Name",
+          "url": "https://www.youtube.com/watch?v=dBuAbEpJY7g"
+        }
+      ]
+    },
+    {
+      "titulo": "Lo Fi, Desenho e Aquarela",
+      "cor": "#bd3d4e",
+      "videos": [
+        {
+          "titulo": "The Last Airbender",
+          "url": "https://www.youtube.com/watch?v=XrT6unHjqr4"
+        },
+        {
+          "titulo": "Gaijin",
+          "url": "https://www.youtube.com/watch?v=wtg7AetxuWo&t=2147s"
+        },
+        {
+          "titulo": "Drawing Faces Tutorial - Female Proportions!",
+          "url": "https://www.youtube.com/watch?v=nauBhzjx584"
+        },
+        {
+          "titulo": "How to Draw Heads - Dividing it Into Thirdsg",
+          "url": "https://www.youtube.com/watch?v=FUJZUZRmNUE"
+        },
+        {
+          "titulo": "Easy Watercolor Painting Ideas for Beginners Step by Step",
+          "url": "https://www.youtube.com/watch?v=3kojEoKgrTY"
+        }
+      ]
+    },
+    {
+      "titulo": "Canais de ciência",
+      "cor": "#c677eb",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Mark Rover",
+          "url": "https://youtu.be/ugRc5jx80yg"
+        },
+        {
+          "titulo": "Nerdologia",
+          "url": "https://youtu.be/5Tt39ve4voU"
+        },
+        {
+          "titulo": "Ciência todo dia",
+          "url": "https://www.youtube.com/watch?v=pKEq8d_1pn4"
+        },
+        {
+          "titulo": "Kurzgesagt – In a Nutshell",
+          "url": "https://youtu.be/_27eD49ePQE"
+        },
+        {
+          "titulo": "Manual do Mundo",
+          "url": "https://youtu.be/-VRWHE4EPAo"
+        }
+      ]
+    },
+    {
+      "titulo": "Canais de programação",
+      "cor": "#7791b5",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Fabio Akita",
+          "url": "https://youtu.be/8G80nuEyDN4"
+        },
+        {
+          "titulo": "Felipe Deschamps",
+          "url": "https://www.youtube.com/watch?v=Lf3ZV0UsnEo&t=105s"
+        },
+        {
+          "titulo": "Frameworks - Alura",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "Universo programado",
+          "url": "https://youtu.be/NZlIYr1slAk"
+        },
+        {
+          "titulo": "CS50 - Harvard",
+          "url": "https://youtu.be/3oFAJtFE8YU"
+        }
+      ]
+    }
+  ]
+}
