@@ -12,8 +12,8 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="LearnFlix logo" />
             </a>
 
-            <Button as="a" className="Button" href="/">
-                Nova playlist
+            <Button as="a" className="ButtonLink" href="/">
+                Novo vídeo
             </Button>
         </nav>
     );
