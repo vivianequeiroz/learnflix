@@ -13,7 +13,7 @@ function Home() {
     <BannerMain
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={"Errar é necessário para que realmente exista um processo de aprendizado.Ter objetivos é essencial para mantermos o foco e a motivação."}
+      videoDescription={"Errar é necessário para que realmente exista um processo de aprendizado. Ter objetivos é essencial para mantermos o foco e a motivação."}
     />
 
     <Carousel
