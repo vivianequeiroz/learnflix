@@ -1,68 +1,80 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<meta charset="utf-8">
+<h1 align="center">
+    <img alt="AluraFlix Tela inicial" title="#AluraFlix" src=".github/learnflix2.png" width="920px" />
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  Imersão React - Alura
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=FF4F00" alt="PRs welcome!" />
 
-### `npm start`
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FF4F00">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="Designed by Rocketseat" src="https://img.shields.io/badge/designed%20by-Alura-%23FF4F00">
+</p>
+<p align="center">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <a href="https://www.linkedin.com/in/viviane-de-santana-queiroz-1a5a4b155/" target="_blank" >
+    <img alt="Linkedin - Viviane Queiroz" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=plastic&color=FF4F00&logo=linkedin">
+  </a>
+  <a href="mailto:vivianedsqueiroz@gmail.com" target="_blank" >
+    <img alt="Email - Viviane Queiroz" src="https://img.shields.io/badge/Email--%23F8952D?style=&color=FF4F00&logo=gmail">
+  </a>
+</p>
 
-### `npm test`
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+## ⚙️ Tecnologias
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React](hhttps://pt-br.reactjs.org)
+- [CSS](https://cssreference.io/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 💻 Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+O Proffy é uma plataforma de estudos online que visa facilitar a busca de professores online, bem como o cadastro deles para oferta de aulas.
+<!-- 
+<h3 style="display: inline">Preview</h3><strong> - Aplicações web e mobile</strong>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="" title="" src="" width="400px">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  <img alt="" title="" src="" width="400px">
+</p> -->
 
-## Learn More
+## 🔖 Layout
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O layout desse projeto foi desenvolvido durante a imersão React da Alura
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img alt="AluraFlix tela inicial" title="#AluraFlix" src=".github/learnflix.png" width="300px" />
 
-### Code Splitting
+## 📖 Como contribuir
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-### Analyzing the Bundle Size
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## 📝 Licença
 
-### Making a Progressive Web App
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+---
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<p align="center">Feito com 💛 por <strong> Viviane Queiroz 🦋 </strong> </p>
