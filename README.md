@@ -36,7 +36,7 @@
 
 ## ⚙️ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React](hhttps://pt-br.reactjs.org)
@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Proffy é uma plataforma de estudos online que visa facilitar a busca de professores online, bem como o cadastro deles para oferta de aulas.
+O LearnFlix é uma plataforma que tem como objetivo ser um organizador de links do YouTube e possibilita a divisão deles em categorias. 
 <!-- 
 <h3 style="display: inline">Preview</h3><strong> - Aplicações web e mobile</strong>
 
