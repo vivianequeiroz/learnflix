@@ -58,9 +58,10 @@ O Proffy é uma plataforma de estudos online que visa facilitar a busca de profe
 
 ## 🔖 Layout
 
-O layout desse projeto foi desenvolvido durante a imersão React da Alura
-
-<img alt="AluraFlix tela inicial" title="#AluraFlix" src=".github/learnflix.png" width="300px" />
+O layout desse projeto foi desenvolvido durante a imersão React da Alura.
+<div style="text-align: center"> 
+    <img alt="AluraFlix tela inicial" title="#AluraFlix" src=".github/learnflix.png" width="300px" />
+</div>
 
 ## 📖 Como contribuir
 
